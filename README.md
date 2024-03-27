@@ -1,5 +1,5 @@
 # Landing_Page
-Overview
+Overview:
 This project involves creating a compelling landing page for an event or product launch. The landing page is designed to attract visitors, provide essential information, and encourage them to take action, such as registering for the event or exploring the product further.
 
 Technologies Used
